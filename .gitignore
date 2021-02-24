@@ -1,0 +1,9 @@
+# IDE eclipse
+.settings
+.metadata
+.classpath
+.project
+
+# ignore
+bin
+*.class
